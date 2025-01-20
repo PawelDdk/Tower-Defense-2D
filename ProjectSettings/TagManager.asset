@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Base
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Turrets
+  - Water
+  - UI
+  - Enemy
+  - Bullet
+  - Base
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2542868155
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Turrets
+    uniqueID: 880510857
+    locked: 0
+  - name: UI
+    uniqueID: 4187542631
+    locked: 0
